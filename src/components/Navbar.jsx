@@ -33,7 +33,7 @@ const Navbar = () => {
         className={
           !hamburger
             ? "hidden"
-            : "absolute top-0 left-0 w-full h-screen  bg-white flex flex-col justify-center items-center"
+            : "absolute top-0 left-0 w-full h-screen bg-white  flex flex-col justify-center items-center"
         }
       >
         <li className="py-6 text-3xl uppercase">O nama</li>
