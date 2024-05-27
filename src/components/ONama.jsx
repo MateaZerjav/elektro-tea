@@ -8,7 +8,7 @@ const ONama = () => {
         <div className="inline-flex ">
           <p className=" text-2xl sm:text-4xl font-semibold">
             {" "}
-            Added under-construction note
+            Ova stranica je još u izradi...uskoro smo tu za tebe
           </p>
 
           <button className=" text-[#2D62B0] group border-2 border-[#2D62B0] px-6 py-3 my-2 flex items-center hover:text-white  hover:border-[#FFEA00] hover:bg-[#FFEA00] ">
