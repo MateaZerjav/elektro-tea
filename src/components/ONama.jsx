@@ -9,7 +9,8 @@ const ONama = () => {
         <div>
           <p className=" max-w-[300px] mx-auto text-2xl sm:text-5xl font-semibold">
             {" "}
-            Bok, mi smo{" "}
+            <strong className="text-[70px] font-medium">Bok,</strong> <br />
+            mi smo{" "}
           </p>
           <span className="text-[#2D62B0] font-extrabold text-3xl sm:text-6xl">
             ELEKTRO TEA
