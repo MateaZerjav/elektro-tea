@@ -48,14 +48,28 @@ const Lokacija = () => {
             "
             >
               {" "}
-              Od ponedjeljka do Subote
+              Od ponedjeljka do Petka
             </p>
             <p
               className="text-start ps-10
             "
             >
               {" "}
-              08 - 18 Sati
+              od 08 do 18 Sati
+            </p>
+            <p
+              className="text-start pt-2 ps-10
+            "
+            >
+              {" "}
+              Subotom
+            </p>
+            <p
+              className="text-start ps-10
+            "
+            >
+              {" "}
+              od 08:00 do 14:00
             </p>
           </div>
         </div>
