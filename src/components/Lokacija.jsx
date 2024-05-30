@@ -48,7 +48,7 @@ const Lokacija = () => {
             "
             >
               {" "}
-              Ponedjeljka - Subote
+              Od ponedjeljka do Subote
             </p>
             <p
               className="text-start ps-10
