@@ -55,7 +55,7 @@ const Lokacija = () => {
             "
             >
               {" "}
-              od 08 do 18 Sati
+              od 08:00 do 18:00 Sati
             </p>
             <p
               className="text-start pt-2 ps-10
